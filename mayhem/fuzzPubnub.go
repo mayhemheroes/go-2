@@ -1,4 +1,4 @@
-package fuzz
+package fuzzPubnub
 
 import "strconv"
 import "github.com/pubnub/go/v7"
